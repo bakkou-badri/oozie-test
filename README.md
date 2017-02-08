@@ -1,2 +1,2 @@
 # oozie-test
-oozie project 
+creation projet with eclipse oozie plugin
